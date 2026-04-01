@@ -1,5 +1,5 @@
 {
-  "version": "1.72",
-  "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v1.72/ItGgyu_BSOD_v1.72.zip",
-  "changelog": "- 블루스크린 분석 AI 정확도 개선\n- SW 문제일 경우 해당 프로그램 안내"
+  "version": "1.75",
+  "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v1.75/ItGgyu_BSOD_v1.75.zip",
+  "changelog": "- 블루스크린 분석 AI 정확도 개선\n- AI 기반 참고 안내문구 추가"
   }
