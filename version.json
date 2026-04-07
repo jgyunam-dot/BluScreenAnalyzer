@@ -1,5 +1,5 @@
 {
-  "version": "1.91",
-  "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v1.91/ItGgyu_BSOD_v1.91.zip",
+  "version": "1.92",
+  "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v1.92/ItGgyu_BSOD_v1.92.zip",
   "changelog": "- 블루스크린 분석 AI 정확도 개선\n- 정밀 진단을 위한 '발생 상황' 입력란 추가\n- UI/UX 업데이트 및 시스템 최적화\n- 글로벌 다국어 지원 추가 (한국어, 영어, 일본어, 중국어)\n\n- Enhanced BSOD analysis AI accuracy\n- Added 'User Context' input field for precise diagnosis\n- UI/UX updates and system optimization\n- Added Global Language Support (Korean, English, Japanese, Chinese)"
 }
