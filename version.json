@@ -1,5 +1,5 @@
 {
-  "version": "2.56",
+  "version": "2.55",
   "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v2.55/ItGgyu_BSOD_v2.55.zip",
   "changelog": "[KOREAN]\n- 블루스크린 분석 AI 정확도 개선\n- 정밀 진단을 위한 '발생 상황' 입력란 추가\n- PC사양, 설치 프로그램, 이벤트 로그 통합 분석 옵션 추가\n- 덤프 파일 내 발생 시점(±5분) 기준 스마트 로그 매칭 알고리즘 적용\n- 국내전용 족보 기능 추가 (핵심)\n- UI/UX 업데이트 및 시스템 최적화\n- 글로벌 다국어 지원 (한국어, 영어, 일본어, 중국어)"
 }
