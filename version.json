@@ -1,5 +1,5 @@
 {
-  "version": "2.59,
+  "version": "2.59",
   "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v2.58/ItGgyu_BSOD_v2.58.zip",
   "changelog": "[v2.58 업데이트 내역]\n- 🔒 보안 강화: 비밀번호 SHA-256 해시 검증 방식으로 변경\n- 🐛 일본어/중국어 분석 결과 헤더 하이라이트 오류 수정\n- 🐛 족보 동기화 시 중복 데이터 추가되던 문제 수정\n- 🐛 분석 중 버튼 중복 클릭으로 인한 중복 분석 실행 문제 수정\n- 🐛 cdb.exe 멈춤 시 프로그램 무한 대기 문제 수정\n- ⚡ 족보 동기화 버튼 클릭 즉시 다운로드 시작되도록 개선\n- ⚡ 네트워크 안정성 향상 (HttpClient 재사용 방식으로 변경)"
 }
