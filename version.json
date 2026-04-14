@@ -1,5 +1,5 @@
 {
-  "version": "2.75",
-  "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v2.75/ItGgyu_BSOD_v2.75.zip",
-  "changelog": "[v2.75 업데이트 내역]\n- AI 분석 향상 (보안/금융관련 DB 451개 추가)\n- 덤프 파일 다중 선택기능 추가\n- 덤프 파일/폴더 선택시 로그뷰어 기능추가\n  [Before : 파일 선택 → 자동분석]\n  [After : 파일 선택 → 발생시간, 드라이버, 버그코드, 프로세스 확인 후 분석 시작]\n- UI/UX 개선\n- BETA : Gemini 서버 혼잡시 Groq 서버 우회 (설정에서 Groq API Key 입력)"
+  "version": "2.76",
+  "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v2.76/ItGgyu_BSOD_v2.76.zip",
+  "changelog": "[v2.75 업데이트 내역]\n- AI 분석 향상 (보안/금융관련 DB 451개 추가)\n- 덤프 파일 다중 선택기능 추가\n- 덤프 파일/폴더 선택시 로그뷰어 기능추가\n  [Before : 파일 선택 → 자동분석]\n  [After : 파일 선택 → 발생시간, 드라이버, 버그코드, 프로세스 확인 후 분석 시작]\n- UI/UX 개선\n- BETA : Gemini 서버 혼잡시 Groq 서버 우회 (설정에서 Groq API Key 입력)\n- 히스토리 선택 시 상황정보가 정상적으로 반영되도록 분석 오류 개선"
 }
