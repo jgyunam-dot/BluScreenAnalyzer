@@ -1,5 +1,5 @@
 {
   "version": "2.81",
-  "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v2.76/ItGgyu_BSOD_v2.76.zip",
+  "url": "https://github.com/jgyunam-dot/BluScreenAnalyzer/releases/download/v2.81/ItGgyu_BSOD_v2.81.zip",
   "changelog": "[v2.81 업데이트 내역]\n- AI 분석 향상 (보안/금융관련 DB 451개 추가)\n- 덤프 파일 다중 선택기능 추가\n- 덤프 파일/폴더 선택시 로그뷰어 기능추가\n  라이트모드 지원"
 }
